@@ -11,3 +11,5 @@ n other programming languages like C, C++ and Java, you will need to declare the
   print() functiom is used to give output.
 # Selection
   In python selection is made using 'if' and 'elif'(here we use elif on the place of elseif).
+# Functions
+  you can think of functions like a bunch of code that is intended to do a particular task in the whole Python script. Python   used the keyword ‘def’ to define a function.
