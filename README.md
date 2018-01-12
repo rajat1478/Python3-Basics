@@ -15,3 +15,5 @@ n other programming languages like C, C++ and Java, you will need to declare the
   you can think of functions like a bunch of code that is intended to do a particular task in the whole Python script. Python   used the keyword ‘def’ to define a function.
 # For loop
   For loops can iterate over a sequence of numbers using the "range" and "xrange" functions. The difference between range and   xrange is that the range function returns a new list with numbers of that specified range, whereas xrange returns an           iterator, which is more efficient.
+# While loop
+  While loop repeat as long as a certain bollean condition is met.
