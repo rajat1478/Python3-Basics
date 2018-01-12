@@ -17,3 +17,5 @@ n other programming languages like C, C++ and Java, you will need to declare the
   For loops can iterate over a sequence of numbers using the "range" and "xrange" functions. The difference between range and   xrange is that the range function returns a new list with numbers of that specified range, whereas xrange returns an           iterator, which is more efficient.
 # While loop
   While loop repeat as long as a certain bollean condition is met.
+# Break/Continue
+  break is used to exit a for loop or a while loop, whereas continue is used to skip the current block, and return to the       "for" or "while" statement.
