@@ -19,3 +19,5 @@ n other programming languages like C, C++ and Java, you will need to declare the
   While loop repeat as long as a certain bollean condition is met.
 # Break/Continue
   break is used to exit a for loop or a while loop, whereas continue is used to skip the current block, and return to the       "for" or "while" statement.
+# Modules
+  Python has a very rich module library that has several functions to do many tasks. 'import’ keyword is used to import a       particular module into your python code. 
