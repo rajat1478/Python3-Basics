@@ -9,3 +9,5 @@ n other programming languages like C, C++ and Java, you will need to declare the
 # Input/Output
   input() function is used to take input from the user.
   print() functiom is used to give output.
+# Selection
+  In python selection is made using 'if' and 'elif'(here we use elif on the place of elseif).
