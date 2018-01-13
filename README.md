@@ -22,6 +22,7 @@ n other programming languages like C, C++ and Java, you will need to declare the
 # Modules
   Python has a very rich module library that has several functions to do many tasks. 'import’ keyword is used to import a       particular module into your python code. 
 # Binary Operations
+  
   Operator      Operation                           Example
   **            Exponent                            2 ** 2 = 8
   %             Modules/remainder                   22 % 8= 6
