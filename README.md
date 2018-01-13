@@ -31,3 +31,5 @@ n other programming languages like C, C++ and Java, you will need to declare the
   *             Multiplication                      2 * 5 = 10
   -             Subtraction                         5 - 3 = 2
   +             Addition                            7 + 3 = 10
+ # Assignment Statement
+    You’ll store values in variables with an assignment statement. An assignment statement consists of a variable name, an         equal sign (called the assignment operator), and the value to be stored.
