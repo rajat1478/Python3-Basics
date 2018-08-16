@@ -24,7 +24,7 @@ n other programming languages like C, C++ and Java, you will need to declare the
 ## Modules
   Python has a very rich module library that has several functions to do many tasks. 'import’ keyword is used to import a       particular module into your python code. 
 ## Binary Operations
-  
+```  
   Operator      Operation                           Example
   **            Exponent                            2 ** 2 = 8
   %             Modules/remainder                   22 % 8= 6
@@ -33,11 +33,14 @@ n other programming languages like C, C++ and Java, you will need to declare the
   *             Multiplication                      2 * 5 = 10
   -             Subtraction                         5 - 3 = 2
   +             Addition                            7 + 3 = 10
+```
 ## Conditional Statements
   If the condition "condition_1" is True, the statements in the block statement_block_1 will be executed. If not, condition_2   will be executed. If condition_2 evaluates to True, statement_block_2 will be executed, if condition_2 is False, the   statements in statement_block_3 will be executed.
+```
   if condition_1:
     statement_block_1
 elif condition_2:
     statement_block_2
 else:
     statement_block_3
+```
