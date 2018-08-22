@@ -50,3 +50,5 @@ elif condition_2:
 else:
     statement_block_3
 ```
+## Range
+  range() allow us to create a list of numbers ranging from a starting point up to an ending point . We can also specifi step size.
