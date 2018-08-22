@@ -54,3 +54,5 @@ else:
   range() allow us to create a list of numbers ranging from a starting point up to an ending point . We can also specifi step size.
 ## Comparison Operators
   These operator will allow us to compare variables and output a boolean value.
+## Chained Comparison Operators
+  An interestion feature of Pyton is the ability to chain multiple comperision to perform a more complex test. You can use these chained compariso as a shorthand for large boolean expression.
