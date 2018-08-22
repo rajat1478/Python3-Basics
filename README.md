@@ -16,7 +16,13 @@ n other programming languages like C, C++ and Java, you will need to declare the
 ## For loop
   For loops can iterate over a sequence of numbers using the "range" and "xrange" functions. The difference between range and   xrange is that the range function returns a new list with numbers of that specified range, whereas xrange returns an           iterator, which is more efficient.
 ## While loop
-  While loop repeat as long as a certain bollean condition is met.
+  While loop repeat as long as a certain bollean condition is met.The while loop is to perform iteration. A while statement repeatedly execute a single statement untill a true value occure.
+```
+  while test:
+      code statement
+  else:
+      final code statements
+```
 ## Assignment Statement
     You’ll store values in variables with an assignment statement. An assignment statement consists of a variable name, an         equal sign (called the assignment operator), and the value to be stored.
 ## Break/Continue
