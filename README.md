@@ -56,3 +56,16 @@ else:
   These operator will allow us to compare variables and output a boolean value.
 ## Chained Comparison Operators
   An interestion feature of Pyton is the ability to chain multiple comperision to perform a more complex test. You can use these chained compariso as a shorthand for large boolean expression.
+## Methods
+  Methods are essentially fuction built into objects. Methods will perform specifi actions on the object and can also take arguments, just like a fuction.
+```
+  object.methods(arg1,arg2,etc....)
+```
+  * Append
+  * Count
+  * Extend
+  * insert
+  * pop
+  * remove
+  * reverse
+  * sort
