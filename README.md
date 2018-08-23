@@ -69,3 +69,9 @@ else:
   * remove
   * reverse
   * sort
+## Lambda Fuction
+  Lambda fuction allow us to create "anonymos" fuctions.This basically mean we can quickly make ad-hoc fuction without needing to properly define a fuction using def. Fuction object return by running lambda expression work exectely the same as those created and assigned by defs.
+```
+  <function__main__.<lambda>>
+```
+  Lambda expression really shine when used in conjuction with map(),filter() and redce().
