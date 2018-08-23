@@ -77,7 +77,12 @@ else:
   Lambda expression really shine when used in conjuction with map(),filter() and redce().
 ## Nested Statements and Scope
   When you create a veriable name in Python the name is store in namespace. Veriable name also have a scope, the scope determines the visbility of that veriable name to other parts of your code.
-  Name assignment will create and change local name by default.Name references at most four scope: *local *enclosing fuction *global * built-in.
-  ### Local:
+  Name assignment will create and change local name by default.Name references at most four scope:
+  *local 
+  *enclosing fuction 
+  *global 
+  *built-in.
+  ### Local
   Name assigned in any way in fuction, and not declared in global in that function.
-  
+  ### Enclosing fuction locals 
+  Name in the local scope of any amd all enclosing fuction, from inner to outer.
