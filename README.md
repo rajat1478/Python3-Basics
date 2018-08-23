@@ -93,3 +93,10 @@ else:
   ### Built-in 
   Name preassigned in the built-in name module : open, range, syntex....
   
+## Modules & Packages
+  This import a module into your current work-place. It's important that you have to either tell Python what function you want to import, or state the module you are importing from. To download newmodule:
+```
+for anaconda
+conda install *module name*
+pip install *module name*(optional)
+```
