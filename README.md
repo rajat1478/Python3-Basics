@@ -100,3 +100,5 @@ for anaconda
 conda install *module name*
 pip install *module name*(optional)
 ```
+## Errors
+ Syntax errors, also known as parsing errors.The parser repeats the offending line and displays a little ‘arrow’ pointing at the earliest point in the line where the error was detected. The error is caused by (or at least detected at) the token preceding the arrow, the error could be detected at the function print(), since a colon (':') is missing before it and etc. File name and line number are printed so you know where to look in case the input came from a script.
