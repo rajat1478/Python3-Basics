@@ -138,3 +138,5 @@ try:
 ```
 self.attribute = something
 ```
+  * **Methods**
+    Methods are function defined inside the body of the class.They are used to perform operations with the attribute of our objects. Methods are essential in encapsulationconcept of OOP paragidm. This is essential in dividing reposibilities in programming, specially in large applications.
