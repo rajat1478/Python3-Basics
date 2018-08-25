@@ -129,11 +129,11 @@ try:
   * Creating method in class
   * learning about inheritances
   
-  ### Object
+  * **Object**
     In Python everything is Object.
-  ### Class
+  * **Class**
     The user defined objects are created using the class keyword. The class is a blueprint that defines a nature of a future object. From classes we can construct instances. An instance is a specific object created from a perticular classes.
-  ### Attribute
+  * **Attribute**
     An attribute is characteristic of an object. A method is an operation we can perform with the object. The syntex for creating Atribute is:
 ```
 self.attribute = something
