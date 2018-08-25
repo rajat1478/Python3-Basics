@@ -79,10 +79,10 @@ else:
   When you create a veriable name in Python the name is store in namespace. Veriable name also have a scope, the scope determines the visbility of that veriable name to other parts of your code.
   Name assignment will create and change local name by default.Name references at most four scope:
   
-  *Local 
-  *Enclosing fuction 
-  *Global 
-  *Built-in
+  * Local 
+  * Enclosing fuction 
+  * Global 
+  * Built-in
   
   ### Local
   Name assigned in any way in fuction, and not declared in global in that function.
@@ -118,4 +118,23 @@ try:
   else:
    If there is no exception then execute this block.
    
+```
+## Object Oriented Programming
+  Object Oriented Programming(OOP) tends to be one of the major obstacles for beginner when they first starting to learn Python.
+  OOP in Python by building on the following topics:
+  
+  * Objects
+  * Using the Class keyword
+  * Creating calss attributes
+  * Creating method in class
+  * learning about inheritances
+  
+  ### Object
+    In Python everything is Object.
+  ### Class
+    The user defined objects are created using the class keyword. The class is a blueprint that defines a nature of a future object. From classes we can construct instances. An instance is a specific object created from a perticular classes.
+  ### Attribute
+    An attribute is characteristic of an object. A method is an operation we can perform with the object. The syntex for creating Atribute is:
+```
+self.attribute = something
 ```
