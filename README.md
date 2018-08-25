@@ -140,3 +140,5 @@ self.attribute = something
 ```
   * **Methods**
     Methods are function defined inside the body of the class.They are used to perform operations with the attribute of our objects. Methods are essential in encapsulationconcept of OOP paragidm. This is essential in dividing reposibilities in programming, specially in large applications.
+  * **Inheritance**
+    Inheritance is a way to form using new classes using classes that have already been defined. A language feature would not be worthy of the name “class” without supporting inheritance. The newly formed classes are called drived classes, the classes that we drive from are called base classes. Important benefits of inheritance are code reuse and reduction of complexcity of a program.
