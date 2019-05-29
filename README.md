@@ -53,7 +53,7 @@ else:
 ## Range
   range() allow us to create a list of numbers ranging from a starting point up to an ending point . We can also specifi step size.
 ## Command Line Argument(CLA)
-  In CLA we import "sys" library and "argv" class. Whatever argument we are passing from cmd are CLA. CLA will be availabel in argv(list) variable. argv is not an array it is list object. First element of argv is always Name of file. argv variable is present in sys module so import sys first. Initially all CLA will be available is string, and give input like : test.py 10 20 30.
+  In CLA we import "sys" library and "argv" class. Whatever argument we are passing from cmd are CLA. CLA will be availabel in argv(list) variable. argv is not an array it is list object. First element of argv is always Name of file. argv variable is present in sys module so import sys first. Initially all CLA will be available is string, and give input like : test.py 10 20 30. Double quote input affects the output with quote it will be one input otherwise it will be fit in defferent index like: test.py Note_book and test.py "Note_book".
 ```
    from sys import argv
       print(argv)
