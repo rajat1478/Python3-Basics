@@ -1,7 +1,7 @@
 # Python3-Basics
 Python was developed by Guido van Rossum in early 1990’s and its latest version is 3.6, we can simply call it as Python3. Python 3.0 was released in 2008.
 ## Print
-In python3 t print any line we use 'print("<text>")'.
+In python3 t print any line we use 'print("text")'.
 ## Variables
 n other programming languages like C, C++ and Java, you will need to declare the type of variables but in Python you don’t need to do that. Just type in the variable and when values will be given to it, then it will automatically know whether the value given would be a int, float or char or even a String.
 ## Listing
@@ -52,6 +52,14 @@ else:
 ```
 ## Range
   range() allow us to create a list of numbers ranging from a starting point up to an ending point . We can also specifi step size.
+## Command Line Argument(CLA)
+  In CLA we import "sys" library and "argv" class. Whatever argument we are passing from cmd are CLA. CLA will be availabel in argv(list) variable. argv is not an array it is list object. First element of argv is always Name of file. argv variable is present in sys module so import sys first. Initially all CLA will be available is string, and give input like : test.py 10 20 30.
+```
+   from sys import argv
+      print(argv)
+   for i in argv:
+      print(i)
+```
 ## Comparison Operators
   These operator will allow us to compare variables and output a boolean value.
 ## Chained Comparison Operators
