@@ -17,7 +17,8 @@ n other programming languages like C, C++ and Java, you will need to declare the
   User define: We use syntex "def" ex:
   ```
   def function_name(parameters):
-  
+  _______
+  _______
   return()
   ```
 ## For loop
