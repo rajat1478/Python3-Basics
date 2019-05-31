@@ -3,7 +3,8 @@ Python was developed by Guido van Rossum in early 1990’s and its latest versio
 ## Print
 In python3 t print any line we use 'print("text")'.
 ## Variables
-n other programming languages like C, C++ and Java, you will need to declare the type of variables but in Python you don’t need to do that. Just type in the variable and when values will be given to it, then it will automatically know whether the value given would be a int, float or char or even a String.
+n other programming languages like C, C++ and Java, you will need to declare the type of variables but in Python you don’t need to do that. Just type in the variable and when values will be given to it, then it will automatically know whether the value given would be a int, float or char or even a String. There are two type of variable: - Local   - Global.<br/>
+Local variable: If we create a variavble inside a function i.e. local variable, we can only access local variable inside the function.
 ## Listing
   List is the most basic Data Structure in python. List is mutable data structure it means items can be added to list later after the list creation. Its like you are going to shop at local market and made a list of some items and later on you can add more and more items to the list.append() function is used to add data to the list.
 ## Input/Output
