@@ -6,3 +6,8 @@ print(myNumber2)
  
 myNumber ="helloworld"
 print(myNumber)
+
+myNumber ="hello"
+print(myNumber)
+
+
